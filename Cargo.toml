@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    # tests
+    'demo/memory_layout',
+    'demo/training_code',
+
+    # live_lessons
+    'training/live_01',
+
+]
